@@ -36,7 +36,8 @@ const style = {
 
 const innerStyle = {
   backgroundColor: "gainsboro",
-  flex: "1 0 auto"
+  flex: "1 0 auto",
+  padding: "20px"
 }
 
 class Modal extends Component {
